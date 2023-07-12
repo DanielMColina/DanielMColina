@@ -1,5 +1,5 @@
 <h1> Hello 👋🏾 👨🏿‍💻 </h1>
-Hi, I'm Daniel Molina! I am a passionate software developer, and enthusiastic about being a better developer every day 👌🏿.
+Hi, I'm Daniel Molina! a passionate software developer, and enthusiastic about being a better developer every day 👌🏿.
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
